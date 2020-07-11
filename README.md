@@ -1,5 +1,6 @@
 See https://www.autohotkey.com/docs/AutoHotkey.htm
 
+
 autoclick:
 F1 starts clicking Mouse1 until F2 stops it
 
