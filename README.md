@@ -8,3 +8,6 @@ F3 makes 3x3 pattern of Mouse1 clicks with Shift down (try in Paint)
 
 autorun:
 Home button keeps W button down until Home is pushed again
+
+autorunfast:
+Home button keeps W and SHIFT button down until Home is pushed again
